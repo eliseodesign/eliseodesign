@@ -1,6 +1,4 @@
-
-## Hi, I´m
-# **Eliseo Arévalo**
+# Hi, I am  **Eliseo Arévalo**
 - 👋 @eliseodesign
 - 👀 I’m interested in to software development
 - 🌱 I’m currently learning Javascript and Python
