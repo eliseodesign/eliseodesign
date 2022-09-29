@@ -1,5 +1,6 @@
 # Hi, I am [**Eliseo Arévalo**](https://eliseodesign.github.io/)
 ## FRONTEND DEVELOPER 
+#### studying backend to be full stack
 - 👋 @eliseodesign
 - 👀 I’m interested in to software development
 - 🌱 I’m currently learning Javascript and Python
