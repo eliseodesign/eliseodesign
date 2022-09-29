@@ -1,4 +1,4 @@
-# Hi, I am (https://eliseodesign.github.io/)[**Eliseo Arévalo**]
+# Hi, I am (https://eliseodesign.github.io/)[Eliseo Arévalo]
 ## FRONTEND DEVELOPER 
 - 👋 @eliseodesign
 - 👀 I’m interested in to software development
