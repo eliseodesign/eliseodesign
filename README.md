@@ -3,7 +3,7 @@
 
   
 # Hi, I am [**Eliseo Arévalo**](https://eliseodesign.github.io/)
-  FRONTEND DEVELOPER 
+  FRONTEND DEVELOPER - 
   studying backend to be full stack
   
 👋🏽 @eliseodesign
@@ -38,7 +38,7 @@
         <a href="https://markdown.es/" target="_blank" rel="noreferrer"> <img src="https://geekytheory.com/content/images/2014/03/markdown.png" alt="photoshop" width="60" height="40"/> </a> 
   </p>
   
-[![Eliseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliseodesign&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Eliseo GitHub stats](https://github-readme-stats.vercel.app/api?username=eliseodesign&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
   
