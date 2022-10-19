@@ -4,8 +4,6 @@
   FRONTEND DEVELOPER - 
   studying backend to be full stack
   
-👋🏽 @eliseodesign
-
 </div> 
 
 
