@@ -6,6 +6,11 @@
 frontend developer and a bit of backend
   
 </div> 
+Soy un programador autodidacta y estudiante de la carrera técnica
+de ingeniería en desarrollo de software en la Escuela Superior
+Franciscana Especializada, con experiencia en el desarrollo web
+frontend, con conocimientos también de desarrollo backend,
+gestión, control de proyectos como sus versiones.
 
 
 <div align="center">
@@ -36,9 +41,9 @@ frontend developer and a bit of backend
         <a href="https://markdown.es/" target="_blank" rel="noreferrer"> <img src="https://geekytheory.com/content/images/2014/03/markdown.png" alt="photoshop" width="60" height="40"/> </a> 
   </p>
   
-[![Eliseo GitHub stats](https://github-readme-stats.vercel.app/api?username=eliseodesign&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Eliseo GitHub stats](https://github-readme-stats.vercel.app/api?username=eliseodesign&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  
+   -->
   
  
 </div>
