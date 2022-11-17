@@ -3,7 +3,9 @@
 <!-- # Hi, I am [**Eliseo Arévalo Espinoza**](https://eliseodesign.github.io/) -->
   ![background](./bg.png)
 
-frontend developer and a bit of backend
+[Ver Portafolio web](https://eliseodesign.github.io/)
+
+Frontend developer and a bit of backend
 
 Soy un programador autodidacta y estudiante de la carrera técnica
 de ingeniería en desarrollo de software en la Escuela Superior
