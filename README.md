@@ -5,12 +5,13 @@
 
 [Ver Portafolio web](https://eliseo.netlify.app/)
 
+I'M ELISEO 🤨
+
 Frontend Developer - Learning a bit of backend
 
 I'm a self-taught programmer and student of the technical career
 engineering in software development at the Escuela Superior Franciscana
-with experience in frontend web development, with knowledge also in backend
-frontend, with knowledge also in backend development.
+with experience in frontend web development, with knowledge also in backend development.
 
 
 <div align="center">
