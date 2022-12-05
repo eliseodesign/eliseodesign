@@ -5,13 +5,12 @@
 
 [Ver Portafolio web](https://eliseo.netlify.app/)
 
-Frontend developer and a bit of backend
+Frontend Developer - Learning a bit of backend
 
-Soy un programador autodidacta y estudiante de la carrera técnica
-de ingeniería en desarrollo de software en la Escuela Superior
-Franciscana Especializada, con experiencia en el desarrollo web
-frontend, con conocimientos también de desarrollo backend,
-gestión, control de proyectos como sus versiones.
+I'm a self-taught programmer and student of the technical career
+engineering in software development at the Escuela Superior Franciscana
+with experience in frontend web development, with knowledge also in backend
+frontend, with knowledge also in backend development.
 
 
 <div align="center">
