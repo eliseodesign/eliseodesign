@@ -9,7 +9,7 @@ I'M ELISEO 🤨
 
 Frontend Developer - Learning a bit of backend
 
-I'm a self-taught developer, student of engineering in software development at the "Escuela Superior Franciscana"
+I'm a frontend dev, software student in the "Escuela Superior Franciscana"
 I've experience in frontend web development, with knowledge also in backend development.
 
 
