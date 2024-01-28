@@ -1,6 +1,5 @@
 # .NET and JavaScript Full Stack Developer
-> Eliseo Arévalo Espinoza
 
-**Hey**, want to check out my CV/Resume?
+### **Hey**, want to check out my **[CV/Resume](./EliseoArevalo_CV.pdf)?**
 
-[View Eliseo's Resume](./EliseoArevalo_CV.pdf)
+
